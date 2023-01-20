@@ -1,2 +1,1 @@
-# amc-geekshub-fsd-grid
-Grid
+#Ejemplo de Grid
